@@ -1,4 +1,4 @@
-**Date: December 2018**
+**Date written: December 2018**
 
 As part of final project for ME 614 (Computational Fluid Dynamics) at Purdue University taught by Professor Scalo of the Mechanical Engineering department. 
 
